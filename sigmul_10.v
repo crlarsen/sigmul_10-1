@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Copyright: Chris Larsen, 2019-2021
+// Engineer: Chris Larsen
 // 
 // Create Date: 04/27/2019 08:40:32 AM
 // Design Name: 
